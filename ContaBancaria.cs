@@ -8,7 +8,6 @@ namespace Exercicios
 {
     public class ContaBancaria
     {
-        private int numeroConta;
         public int NumeroConta { get; private set; }
         public string NomeTitularConta { get; set; }
         public double Saldo { get; private set; }
